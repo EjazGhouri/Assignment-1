@@ -1,0 +1,1 @@
+document.write("<b>Rules for naming JS  variable</b> <br><br><br><br><br> Variables names can only contain numbers , $ , _ and letters. For example <b>$my_1stVariable</b> <br> Variables must begin with a letter, $ or _. <b>For example $name, _name or name</b> <br> Variable names are case sensitive <br> Variable names should not be JS keyword")
